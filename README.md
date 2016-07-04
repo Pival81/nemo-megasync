@@ -70,7 +70,7 @@ Then you only have to restart nemo with ```` nemo -q ```` and reopen it again.
 
 ## Uninstall
 
-To uninstall it, get back to the directory cloned from git and do:
+To uninstall it, get back to the directory cloned with git and do:
 ````
 $ sudo make uninstall
 ````

@@ -1,6 +1,11 @@
 # Nemo-MEGASync
 A nemo port of the nautilus-megasync package. All I did was replace the word nautilus with nemo in every file of the tarball.
 
+* [Requirements](#requirements)
+* [Compile](#compile)
+* [Uninstall](#uninstall)
+
+
 ## Requirements
 
 Apart from Nemo and MEGASync, you require:

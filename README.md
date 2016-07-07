@@ -59,10 +59,8 @@ And then the following commands:
 ````
 $ make
 $ sudo make install
-$ sudo mkdir -p /lib64/nemo/extensions-3.0 ````   #if you're on 32bit, replace lib64 with lib.
-````
+$ sudo mkdir -p /lib64/nemo/extensions-3.0   #if you're on 32bit, replace lib64 with lib.
 $ sudo install libMEGAShellExtNemo.so -D /lib64/nemo/extensions-3.0 ````   #if you're on 32bit, replace lib64 with lib.
-````
 $ sudo rm -fr /usr/share/icons/hicolor/icon-theme.cache
 $ /bin/touch --no-create /usr/share/icons/hicolor &>/dev/null || :
 ````

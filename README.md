@@ -34,7 +34,7 @@ cdbs
 libqt4-dev
 intltool
 autotools-dev
-libnautilus-extension-dev
+libnemo-extension1a
 libgtk2.0-bin
 libtool-bin
 libtool

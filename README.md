@@ -1,3 +1,5 @@
+<iframe src="http://software.opensuse.org/download/iframe?project=home:Pival81&package=lila-hd-icon-theme"></iframe>
+
 # Nemo-MEGASync
 A nemo port of the nautilus-megasync package. All I did was replace the word nautilus with nemo in every file of the tarball.
 

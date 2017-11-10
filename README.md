@@ -34,10 +34,11 @@ cdbs
 libqt4-dev
 intltool
 autotools-dev
-libnemo-extension1a
+libnemo-extension1
 libgtk2.0-bin
 libtool-bin
 libtool
+libnemo-extension-dev
 ````
 ## Compile
 
